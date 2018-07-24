@@ -1,0 +1,42 @@
+body{
+    text-align:center; 
+    background: rgb(53,53,53);
+    color: rgb(245,245,245);
+}
+.top{
+    text-align: center;
+    width: 540px;
+    margin:auto;
+}
+header{
+    font-family:"Times New Roman";
+    font-size:72px;
+}
+h3{
+    margin-top:20px;
+    font-family:"Cambria";
+    font-size:26px;
+}
+h2{
+    font-family:"Cambria";
+    font-size:26px;
+}
+p{
+    font-family:"Dosis";
+    font-size:16px;
+}
+
+.watch_container{
+background: #1A1818;
+border-style: groove;
+border: solid 2px #FDEFA6;
+margin-top:15px;
+margin-bottom:15px;
+margin-right:50px;
+margin-left:50px;
+padding:16px;
+}
+footer{
+    font-size:30px;
+    font-family:"Dosis";
+}
